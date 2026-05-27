@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhaskar Yelike
+# 👋 Hi, I'm Bhaskara Yelike
 
 **Full Stack Developer · Frontend Enthusiast · Based in Vizag, India**
 
