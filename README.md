@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhaskara Yelike
 
-**Full Stack Developer · Frontend Enthusiast · Based in Vizag, India**
+**Full Stack Developer · Frontend Enthusiast · Based in Hyderabad, India**
 
 ---
 
@@ -17,6 +17,8 @@ Fresh graduate (April 2026) passionate about building clean, responsive web expe
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -24,7 +26,7 @@ Fresh graduate (April 2026) passionate about building clean, responsive web expe
 
 - 🔍 Open to **Frontend Developer** roles
 - 💡 Building projects with React
-- 📚 Deepening backend skills with Node.js & Express
+
 
 ---
 
